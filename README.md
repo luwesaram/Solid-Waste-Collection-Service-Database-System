@@ -1,5 +1,9 @@
 # Waste-Collection-Service-Database-Management-System
+
+
 Final Project for COMP 20093: Information Management
+
+BSIT 2-1N GROUP 5
 
 Submitted by:
 
