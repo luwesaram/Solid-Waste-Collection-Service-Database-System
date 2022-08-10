@@ -17,7 +17,7 @@ Pelagio, Simoun S.
 
 Files include: scwdbms (sample data for the database system), the application (WasteCollectionDBMS.jar file), and the source codes.
 
-Note: In order for the WasteCollectionDBMS.jar file to work, the whole "Application" folder and its contents should be downloaded. Alternatively, the zip file can be downloaded.
-The swcdbms.sql file contains images, contained in blob/byte, which explains the random numbers/characters.
+Note: In order for the WasteCollectionDBMS.jar file to work, the whole "Application" folder and its contents should be downloaded. Alternatively, a zip file of its contents can be downloaded.
+The swcdbms.sql file contains images, contained in blob/byte, which explains the random numbers/characters. A zip file is provided for easy download.
 
 
